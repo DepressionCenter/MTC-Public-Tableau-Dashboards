@@ -3,7 +3,7 @@
 # Mobile Tech Core - Public Tableau Dashboards
 
 ## Description
-Public-facing Tableau workbooks and dashboards created by the Mobile Technologies Core.
+Tableau dashboard templates and example workbooks for research teams.
 
 
 
